@@ -44,4 +44,4 @@ Inside the environment we just activated, type:
 ```
 jupyter notebook
 ```
-This should open a jupyter notebook homepage where you can access all this repository's notebook in your default browser.
+This should open up a window in your default browser. This is a jupyter notebook homepage where you can access and run this repository's tutorial notebook!
