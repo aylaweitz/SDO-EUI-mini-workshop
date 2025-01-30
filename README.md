@@ -1,5 +1,28 @@
-# SDO-EUI-mini-workshop
+# SDO/AIA and Solar Orbiter/EUI alignment mini-workshop
 
-Python tutorial on aligning SDO/AIA and Solar Orbiter/EUI datasets.
+(Presented Feburary 21st at [SDO 2025 Science Workshop](https://sdo2025.sdo-workshops.org/))
 
-(Presented Feburary 21st at SDO 2025 Science Workshop)
+---
+
+First, we need to copy this github repository on to your computer. To do this, open your terminal and run the following line:
+
+```
+git clone ...
+```
+** If this doesn't work, you can download the repository as a zip file!
+
+<br>
+
+Move into this repository. Run the following line in your terminal:
+```
+cd SDO-EUI-mini-workshop
+```
+
+<br>
+
+Now let's create a conda environment. This will download all necessary packages to run the tutorial jupyter notebook file. Run the following line in your terminal:
+
+```
+conda env create --name SDO_EUI_workshop_env --file=env.yml
+```
+(This will take a little bit to run)
