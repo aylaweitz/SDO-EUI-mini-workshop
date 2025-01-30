@@ -7,7 +7,7 @@
 First, we need to copy this github repository on to your computer. To do this, open your terminal and run the following line:
 
 ```
-git clone ...
+git clone https://github.com/aylaweitz/SDO-EUI-mini-workshop.git
 ```
 ** If this doesn't work, you can download the repository as a zip file!
 
