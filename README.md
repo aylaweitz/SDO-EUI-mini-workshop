@@ -26,7 +26,7 @@ cd SDO-EUI-mini-workshop
 
 
 ### 2. Creating a conda envrionment
-The python packages required to run this workshop notebook are listed in the `env.yml` file in this repository. To create an environment with these packages installed, in terminal type:
+The python packages required to run this workshop notebook are listed in the [`env.yml`](https://github.com/aylaweitz/SDO-EUI-mini-workshop/blob/main/env.yml) file in this repository. To create an environment with these packages installed, in terminal type:
 ```
 conda env create -f env.yml
 ```
