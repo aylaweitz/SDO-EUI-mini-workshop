@@ -30,7 +30,7 @@ The python packages required to run this workshop notebook are listed in the [`e
 ```
 conda env create -f env.yml
 ```
-This will then create a new conda environment called `SDO_EUI_workshop_env` (this name is listed in the `env.yml` file).
+This will then create a new conda environment called `SDO_EUI_workshop_env` (this name is listed in the `env.yml` file). It may take a little bit for this to run.
 
 
 To activate the environment we just created, run the following:
