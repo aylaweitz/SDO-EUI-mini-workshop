@@ -41,7 +41,7 @@ This will then create a new conda environment called `SDO_EUI_workshop_env` (thi
 
 To activate the environment we just created, run the following:
 ```
-conda activate SDO_EUI_workshop_env
+conda activate SDO_EUI_workshop
 ```
 
 
