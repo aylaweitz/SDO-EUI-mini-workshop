@@ -4,6 +4,12 @@
 
 ---
 
+## Run this tutorial externally
+If you don't have Python installed or don't want to deal with the setup, you can run this tutorial online by clicking here &#8594; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aylaweitz/SDO-EUI-mini-workshop/HEAD)
+
+
+## Run this tutorial locally
+
 In order to follow along with this tutorial locally, we'll need to clone this repository (download the files) and activate a conda environment (install the necessary packages).
 
 These steps assume you already have conda installed (if you don't, follow the conda installation guide [here](https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html#)).
@@ -26,11 +32,11 @@ cd SDO-EUI-mini-workshop
 
 
 ### 2. Creating a conda envrionment
-The python packages required to run this workshop notebook are listed in the [`env.yml`](https://github.com/aylaweitz/SDO-EUI-mini-workshop/blob/main/env.yml) file in this repository. To create an environment with these packages installed, in terminal type:
+The python packages required to run this workshop notebook are listed in the [`environment.yml`](https://github.com/aylaweitz/SDO-EUI-mini-workshop/blob/main/environment.yml) file in this repository. To create an environment with these packages installed, in terminal type:
 ```
-conda env create -f env.yml
+conda env create -f environment.yml
 ```
-This will then create a new conda environment called `SDO_EUI_workshop_env` (this name is listed in the `env.yml` file). It may take a little bit for this to run.
+This will then create a new conda environment called `SDO_EUI_workshop_env` (this name is listed in the `environment.yml` file). It may take a little bit for this to run.
 
 
 To activate the environment we just created, run the following:
