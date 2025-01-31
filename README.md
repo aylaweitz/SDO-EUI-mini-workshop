@@ -5,7 +5,7 @@
 ---
 
 ## Run this tutorial externally
-If you don't have Python installed or don't want to deal with the setup, you can run this tutorial online by clicking here &#8594; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aylaweitz/SDO-EUI-mini-workshop/HEAD)
+If you don't want to deal with the setup, you can run this tutorial online by clicking here &#8594; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aylaweitz/SDO-EUI-mini-workshop/HEAD)
 
 
 ## Run this tutorial locally
