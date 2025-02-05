@@ -51,3 +51,8 @@ Inside the environment we just activated, type:
 jupyter notebook
 ```
 This should open up a window in your default browser. This is a jupyter notebook homepage where you can access and run this repository's tutorial notebook!
+
+---
+
+## Other useful resources
+- https://github.com/SolarOrbiterWorkshop/solo8_tutorials/tree/main/EUI_tutorial
