@@ -55,4 +55,6 @@ This should open up a window in your default browser. This is a jupyter notebook
 ---
 
 ## Other useful resources
-- https://github.com/SolarOrbiterWorkshop/solo8_tutorials/tree/main/EUI_tutorial
+- EUI webpage: https://www.sidc.be/EUI/intro
+- EUI L2 data webpage: https://www.sidc.be/EUI/data/L2/
+- Another EUI tutorial: https://github.com/SolarOrbiterWorkshop/solo8_tutorials/tree/main/EUI_tutorial
