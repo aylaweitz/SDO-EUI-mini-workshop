@@ -1,11 +1,13 @@
-# SDO/AIA and Solar Orbiter/EUI alignment mini-workshop
+# SDO/AIA and Solar Orbiter/EUI alignment tutorial
 
-*Combining Data over Satellites* mini-workshop for [SDO 2025 Science Workshop](https://sdo2025.sdo-workshops.org/)
+This tutorial provides a step-by-step guide on retrieving EUI data and aligning it with AIA and IRIS.
+
+Part of the *Combining Data over Satellites* mini-workshop at the [SDO 2025 Science Workshop](https://sdo2025.sdo-workshops.org/) (February 21st, 2025). Find the mini-workshop slides [here](https://docs.google.com/presentation/d/16YRudCeR8-oMJPafX4iwPBUkJN8nPI2nBMXbwG1ZJ5A/edit?usp=sharing).
 
 ---
 
 ## Run this tutorial externally
-If you don't want to deal with the setup, you can run this tutorial online by clicking here &#8594; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aylaweitz/SDO-EUI-mini-workshop/HEAD)
+You can run this tutorial online by clicking here &#8594; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aylaweitz/SDO-EUI-mini-workshop/HEAD)
 
 
 ## Run this tutorial locally
