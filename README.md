@@ -1,6 +1,6 @@
 # SDO/AIA and Solar Orbiter/EUI alignment tutorial
 
-This tutorial provides a step-by-step guide on retrieving EUI data and aligning it with AIA and IRIS.
+This tutorial provides a step-by-step guide on retrieving EUI data and aligning it with AIA and IRIS in Python.
 
 Part of the *Combining Data over Satellites* mini-workshop at the [SDO 2025 Science Workshop](https://sdo2025.sdo-workshops.org/) (February 21st, 2025). Find the mini-workshop slides [here](https://docs.google.com/presentation/d/16YRudCeR8-oMJPafX4iwPBUkJN8nPI2nBMXbwG1ZJ5A/edit?usp=sharing).
 
