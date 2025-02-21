@@ -13,3 +13,4 @@ dependencies:
     - ipywidgets
     - astroquery
     - jupyterlab
+    - irispy-lmsal
